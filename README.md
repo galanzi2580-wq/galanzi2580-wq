@@ -1,4 +1,4 @@
-# Zen Wu (吴振豪)
+# Zen Wu
 
 Application security engineer focused on AI and data infrastructure security.
 
