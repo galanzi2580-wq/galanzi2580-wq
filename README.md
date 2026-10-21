@@ -15,11 +15,6 @@ Four vulnerabilities reported and published through [huntr](https://huntr.com/us
 
 Writeups: [cve-writeups](https://github.com/galanzi2580-wq/cve-writeups)
 
-## Focus
-
-- AI application security: agent prompt-injection defence, MCP gateway governance, model and data tiering
-- Application security engineering: SSDLC, code review, vulnerability remediation
-- Security governance: ISO 27001, control gap remediation, maturity improvement
 
 ## Links
 
